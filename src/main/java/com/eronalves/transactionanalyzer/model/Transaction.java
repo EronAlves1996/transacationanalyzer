@@ -18,7 +18,7 @@ public class Transaction {
   }
 
   public enum Currency {
-    USD, BRL, YEN, AUR
+    USD, BRL, YEN, AUR, JPY;
   }
 
   public Trader getTrader() {
